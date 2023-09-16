@@ -1,4 +1,4 @@
-![Social banner](/images/My_character.png)
+![Social banner](/Desktop/My_character.png)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Lucía 
