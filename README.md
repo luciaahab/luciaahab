@@ -1,4 +1,4 @@
-![Social banner](/Users/lmartin3/Desktop/My_character.png)
+![Social banner](/images/My_character1.png)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Lucía 
